@@ -1,7 +1,8 @@
 __pycache__/
 
-imagenette2/
+imagenette2
 distorted-images/*
+test/distorted-images/*
 !distorted-images-data.csv
 
 imagenette2.zip
